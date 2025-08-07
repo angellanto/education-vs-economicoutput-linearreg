@@ -1,7 +1,6 @@
-# Business Statistics | Individual Assignment
-## Analyzing the Relationship between Education and Economic Output
+# Analyzing the Relationship between Education and Economic Output
 ## Dataset Source: https://data.worldbank.org/indicator
-### Grade: 91/100
+### Business Statistics | Individual Assignment Grade: 91/100
 ### Professor Comment: 
 Thank you for your efforts and submission. Your assignment on analysing the relationship between education and economic output demonstrates a very good understanding of the key concepts and methodologies required for this analysis.  
 
